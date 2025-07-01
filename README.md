@@ -1,4 +1,5 @@
 # Simple Task Manager (PHP)
+![Screenshot](screenshot.png)
 
 A basic PHP project to manage tasks without a database.
 
